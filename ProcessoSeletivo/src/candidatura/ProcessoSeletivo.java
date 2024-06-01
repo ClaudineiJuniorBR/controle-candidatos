@@ -96,6 +96,5 @@ public class ProcessoSeletivo {
         } catch (Exception e) {
             System.out.println("ERRO DE ANALISE, TENTE NOVAMENTE.");
         }
-
     }
 }
